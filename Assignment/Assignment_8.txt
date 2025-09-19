@@ -1,0 +1,12 @@
+
+
+
+https://leetcode.com/problems/odd-even-linked-list/description/
+
+https://leetcode.com/problems/partition-list/description/ (Dummy Pointers Question)
+
+https://leetcode.com/problems/reverse-linked-list-ii/description/
+
+https://leetcode.com/problems/palindrome-linked-list/description/
+
+https://leetcode.com/problems/design-twitter/description/

@@ -1,0 +1,14 @@
+
+<-----------Hash Map ------------>
+
+- https://leetcode.com/problems/subarray-sum-equals-k/description (Try to understand thoroughly using dry run or various examples)
+
+- https://leetcode.com/problems/majority-element/description/
+
+- https://leetcode.com/problems/happy-number/description/
+
+- https://leetcode.com/problems/isomorphic-strings/description/?envType=problem-list-v2&envId=hash-table
+
+- https://leetcode.com/problems/find-missing-and-repeated-values/description/?envType=problem-list-v2&envId=hash-table
+
+- https://leetcode.com/problems/sort-array-by-increasing-frequency/description/?envType=problem-list-v2&envId=hash-table

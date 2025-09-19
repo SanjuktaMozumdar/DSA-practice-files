@@ -1,0 +1,11 @@
+
+
+
+
+https://leetcode.com/problems/implement-stack-using-queues/description 
+https://leetcode.com/problems/implement-queue-using-stacks
+
+- - (Try to do these questions in different ways than discussed in the class) - -
+
+https://leetcode.com/problems/flatten-nested-list-iterator/description/ 
+https://leetcode.com/problems/design-circular-queue/description/

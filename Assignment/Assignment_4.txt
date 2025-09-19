@@ -1,0 +1,9 @@
+
+
+- https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/description/ 
+
+----------------------------------------------------------------------------------------------------
+
+- https://leetcode.com/problems/word-subsets/description/?envType=problem-list-v2&envI d=hash-table
+ - https://leetcode.com/problems/subarray-sums-divisible-by-k/description/?envType=probl em-list-v2&envId=hash-table
+ - https://leetcode.com/problems/count-number-of-bad-pairs/description/
